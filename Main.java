@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello nieuweKlas");
 
         NieuweKlas n =  new NieuweKlas();
+        // Test commit
     }
 }
